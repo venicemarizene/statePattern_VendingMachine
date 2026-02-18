@@ -56,4 +56,4 @@ A vending machine needs to manage different states, including "Idle", "ItemSelec
 
 
 # UML Class Diagram
-![UML Class Diagram](StrategyPattern.png)
+![UML Class Diagram](StatePattern.png)
